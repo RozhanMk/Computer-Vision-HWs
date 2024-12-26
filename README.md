@@ -1,8 +1,8 @@
 # Computer Vision Projects at Shahid Beheshti University - 2024
 
-Thie repository showcases Computer Vision projects conducted at **Shahid Beheshti University** in 2024. These projects are related to various domains of computer vision, ranging from classic image processing to cutting-edge deep learning techniques.
+This repository showcases Computer Vision projects conducted at Shahid Beheshti University in 2024. These projects relate to various domains of computer vision, ranging from classic image processing to cutting-edge deep learning techniques.
 
----
+
 
 ## HW1
 
