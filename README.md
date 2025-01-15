@@ -1,4 +1,4 @@
-# Computer Vision Projects at Shahid Beheshti University - 2024
+# Computer Vision Assignments at Shahid Beheshti University - 2024
 
 This repository showcases Computer Vision projects conducted at Shahid Beheshti University in 2024. These projects relate to various domains of computer vision, ranging from classic image processing to cutting-edge deep learning techniques.
 
@@ -16,7 +16,7 @@ This repository showcases Computer Vision projects conducted at Shahid Beheshti 
 ### **Image Filtering**
    - **Filters Used**:
      - Gaussian filter
-     - Non local means filter
+     - Non-local means filter
      - Laplacian filter
    - **Applications**: Noise removal, smoothing, and feature enhancement.
   
@@ -37,7 +37,7 @@ This repository showcases Computer Vision projects conducted at Shahid Beheshti 
 
 ### **Object Detection**
    - Detecting airplanes using RetinaNet model
-   - Evaluating model using mean average precision (mAP)
+   - Evaluating the model using mean average precision (mAP)
      
   
   ---
